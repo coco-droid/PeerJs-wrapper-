@@ -1,5 +1,6 @@
 # PeerJs-wrapper
-it's a lib for create custom event (listener-emitter) and connect,gestionnate multi node in P2P support broadcasting event and screensharing api "only dekstop"
+This lib will allow the dev to integrate peejs more easily and add other features for P2P connection
+he permit to create custom event (listener-emitter) and connect,gestionnate multi node in P2P support broadcasting event and screensharing api "only dekstop"
 <details><summary>Integration</summary>
 <p>
 
