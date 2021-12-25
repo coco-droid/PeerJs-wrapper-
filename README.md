@@ -77,5 +77,7 @@ npm:
 </p>
 
 </details>
+## Contributing
+Pull requests are welcome i would like he have other functionnality
 
 
